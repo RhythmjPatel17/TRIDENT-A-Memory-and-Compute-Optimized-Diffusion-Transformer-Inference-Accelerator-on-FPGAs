@@ -1,0 +1,1 @@
+# TRIDENT-A-Memory--and-Compute-Optimized-Diffusion-Transformer-Inference-Accelerator-on-FPGAs
